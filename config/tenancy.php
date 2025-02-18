@@ -20,6 +20,7 @@ return [
         '127.0.0.1',
         'localhost',
         'tenancy-for-laravel-app.test',
+        'tenancy.modernpay.net',
     ],
 
     /**
